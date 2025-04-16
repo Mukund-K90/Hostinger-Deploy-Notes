@@ -13,7 +13,9 @@
 ### 1. Preparing the VPS Environment
 
 #### 🚀 Get VPS Hosting from Hostinger  
-[Click here to get started with Hostinger](https://hostinger.com?REFERRALCODE=EUKKOLADIKDM)
+<a href="https://hostinger.com?REFERRALCODE=EUKKOLADIKDM">
+  <img src="https://cdn.brandfetch.io/idJjJ1f0bI/w/1000/h/1000/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Hostinger Logo" />
+</a>
 
 Log in to Your VPS in Terminal 
 
