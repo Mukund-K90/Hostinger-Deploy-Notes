@@ -12,7 +12,7 @@
 - Setting Up SSL Certificates
 ### 1. Preparing the VPS Environment
 
-#### Get you VPS Hosting here : [Hostinger VPS](https://greatstack.dev/go/hostinger-vps)
+#### 🚀 Get Hosting with My Referral: [Hostinger VPS](https://hostinger.com?REFERRALCODE=EUKKOLADIKDM)
 
 Log in to Your VPS in Terminal 
 
